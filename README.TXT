@@ -32,12 +32,15 @@ NLED is available for custom design and manufacturing, please contact via phone 
 ================================================================================================================
 
 Pixel Power Injection Board:
-	A passive device that allows a pixel string to be 'injected' with power from a 2.1x5.5mm barrel jack or
-	with screw terminals. This does not do anything to the data signal other than pass it thru.
+	A passive device that allows a pixel string to be 'injected' with power from a 2.1x5.5mm barrel jack or with screw terminals. This does not do anything to the data signal other than pass it thru.
 	
 	BOM:
 		PCB: 1.5" x 1.5", 1.6mm thick
 		DC Jack Part#: Wurth 694106301002
 		Capacitor: 3.5mm x 8mm, 220uF. Example: UHV1V221MPD
 		Terminals: 5.08mm spaced, 5x 2-pinsGeneric, Example Part# OSTTC022162
+		
+Included Files:
+	Eagle Schematic and Board Files
+	Wiring Diagrams and Datasheet
 	
